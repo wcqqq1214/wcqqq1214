@@ -9,6 +9,8 @@ I hope to contribute to open-source projects and build useful tools.
 I also enjoy watching football and support FC Barcelona and the Argentina national team.
 
 <p>
-  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=wcqqq1214&show_icons=true&hide_border=true&theme=dark" alt="Wei Chengqian's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=wcqqq1214&layout=compact&langs_count=8&hide_border=true&theme=dark" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=wcqqq1214&show_icons=true&hide_border=true&theme=dark#gh-dark-mode-only" alt="Wei Chengqian's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api?username=wcqqq1214&show_icons=true&hide_border=true#gh-light-mode-only" alt="Wei Chengqian's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=wcqqq1214&layout=compact&langs_count=8&hide_border=true&theme=dark#gh-dark-mode-only" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=wcqqq1214&layout=compact&langs_count=8&hide_border=true#gh-light-mode-only" alt="Top languages" />
 </p>
